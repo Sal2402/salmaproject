@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HISIA YOUTH COUNSELLING AND GUIDING C.B.O</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/185d87fce2.js" crossorigin="anonymous"></script>
+    <!-----below is a url for the font type------>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;600;700&amp;display=swap"
+
+      rel="stylesheet">
+    <!-----below is a url for the font icons------>
+  </head>
+  <body>
+    <section class="sub-header">
+      <nav>
+        <nav class="menu_topmenu_items">
+          <ul id="primary_menu" class="primary_menu">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">Where We Work</a>
+              <ul>
+                <li><a href="">Headquarters</a></li>
+                <li><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.psyg.go.ke%2F&amp;h=AT0lAaxVnumrU5mDfaslLqesucdGjBlMA3yVohmbO_XN0IQ6ozmopdy5dBLvhJ7bxqN00lwPgm8ewkYVIG54d1UQjqcmVSvLTwImW0_Q9IcBzfa2m6kLa6zPZpaWEP6Sdf_8y7KzxaNl_gPz8EcXHQ">YEC
+                    Center</a></li>
+                <li><a href="/asia">Asia</a></li>
+                <li><a href="/europe">Europe</a></li>
+                <li><a href="/mena">MENA</a></li>
+              </ul>
+            </li>
+            <li><a href="activities.html">Our Activities</a></li>
+            <li><a href="profile.html">Profile</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+        </nav>
+      </nav>
+      <h1>Team Achievements, Objectives and goals</h1>
+    </section>
+    <!--------Team Page Content------->
+    <section class="blog-content">
+      <div class="row">
+        <div class="blog-left"> <img src="images/pic18.jpg">
+          <h2>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; OFFICIAL
+            ORGANISATION PROFILE</h2>
+          <p> Hisia youth counselling and guiding C.B.O is a not-for-profit
+            community-based organization with active social footprint in Likoni
+            sub-county. Hisia is legally registered with the ministry of labor
+            and social protection under the department of social development. It
+            aims at guiding youth in likoni and other parts of Mombasa on social
+            issues/challenges such us drug abuse, social </p>
+          <p><br>
+          </p>
+          <p> OUR VISION <br>
+            A prosperous society where youths have acquired academic, career and
+            social life skills hence managing their lives in a healthy
+            responsible manner as productive citizens who respect themselves and
+            others. </p>
+          <p><br>
+          </p>
+          <p>OUR MISSION
+            To impart youth with knowledge on the importance of education and
+            campaign against the dangers of peer pressure and sexual immorality.
+          </p>
+          <p><br>
+          </p>
+          <p>
+            OUR OBJECTIVES </p>
+          <p>To provide Guiding and counseling on social issues such as drug
+            abuse, adolescence and sexual immorality among youths in Likoni and
+            Other parts in Mombasa County. </p>
+          <p>To promote discipline through guiding and counseling hence
+            encouraging a conducive environment for learning in schools. </p>
+          <p>To mentor youth through the provision of career guidance lessons
+          </p>
+          <p>To empower the life of members through initiation of various
+            income generating projects that would not only support the
+            community-based organization but also the members. </p>
+          <div class="comment-box">
+            <h3>Leave a Comment</h3>
+            <form class="comment-form" onsubmit="sendEmail(); reset(); return false;">
+              <input placeholder="Enter Name" type="text"> <input placeholder="Enter Email"
+
+                type="email"> <textarea rows="5" placeholder="Your Comment"></textarea>
+              <button type="submit" class="hero-btn red-btn" id="submit">POST
+                COMMENT</button> </form>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+    <!------Footer------>
+    <div class="footer_row">
+      <table>
+        <tbody>
+          <tr>
+            <td class="footer_menu_block">
+              <h4>About Us</h4>
+              <ul>
+                <li><a href="/about-us/">About Us</a></li>
+                <li><a href="/our-mission/">Our Mission</a></li>
+                <li><a href="/leadership-team/">Our Leadership</a></li>
+                <li><a href="/impact-report/">Impact Report</a></li>
+                <li><a href="/faq/">FAQs</a></li>
+                <li><a href="/our-resources/">Resources</a></li>
+                <li><a href="/strategic-plan/">Our Strategic Plan</a></li>
+              </ul>
+            </td>
+            <td class="footer_connect_block">
+              <h4>Connect</h4>
+              <ul>
+                <li><a href="https://jobs.lever.co/sfcg" target="_blank">Careers</a></li>
+                <li><a href="/newsroom/">Press</a></li>
+                <li><a href="mailto:webinfo@sfcg.org">webinfo@sfcg.org</a></li>
+              </ul>
+              <div class="icons"> <a href="https://www.facebook.com/profile.php?id=100080690541787"
+
+                  class="fa fa-facebook"></a> <a href="https://instagram.com/hisia.youthcbo?igshid=ZDdkNTZiNTM="
+
+                  class="fa fa-instagram"></a> <a href="https://twitter.com/Hisiacbo?t=f-9iyi6zO19y0uVL_dw6Ow&amp;s=09"
+
+                  class="fa fa-twitter"></a> </div>
+            </td>
+            <td class="footer_contacts_block">
+              <h5>Washington, DC Headquarters:</h5>
+              1730 Rhode Island Ave NW Suite 1101, Washington, DC 20036, USA <br>
+              <a href="tel:+12022654300">+1 202 265 4300</a>
+              <h5 style="margin-top: 40px;">Brussels Headquarters:</h5>
+              Rue Belliard 205 bte 13, Brussels B-1040, BELGIUM <br>
+              <a href="tel:+3227367262">+32 2 736 72 62</a> </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="text-align: center;">Made by Salma Ali</p>
+    <!-----JavaScript for Toggle Meenu----->
+    <script>
+	var navLinks = document.getElementById("navLinks");
+	function showMenu(){
+		// body...
+		navLinks.style.right = "0";
+	}
+	function hideMenu(){
+		navLinks.style.right = "-200px";
+	}
+</script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script>
+	var btn = document.getElementById('submit');
+	btn.addEventListener('click', function(e){
+		e.preventDefault()
+		var text = document.getElementById('text').value
+		var email = document.getElementById('email').value
+		var name = document.getElementById('name').value
+
+		Email.send({
+		    Host : "smtp.gmail.com",
+		    Username : "mathengemordecai@gmail.com",
+		    Password : "qiorowwznntstued",
+		    To : 'mathengemordecai@gmail.com',
+		    From : document.getElementById("email").value,
+		    Subject : "New Contact form enquiry",
+		    Body : "And this is the body"
+		}).then(
+		  message => alert(message)
+		);
+	})
+</script>
+  </body>
+  <!------Javascript for commentbox----->
+</html>

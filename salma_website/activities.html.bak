@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> HISIA YOUTH COUNSELLING AND GUIDING C.B.O</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/185d87fce2.js" crossorigin="anonymous"></script>
+    <!-----below is a url for the font type------>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;600;700&amp;display=swap"
+
+      rel="stylesheet">
+    <!-----below is a url for the font icons------>
+  </head>
+  <body>
+    <section class="sub-header">
+      <nav>
+        <nav class="menu_topmenu_items">
+          <ul id="primary_menu" class="primary_menu">
+            <li><a href="home.html">Home</a></li>
+            <li><a href="about.html">Where We Work</a>
+              <ul>
+                <li><a href="">Headquarters</a></li>
+                <li><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.psyg.go.ke%2F&amp;h=AT0lAaxVnumrU5mDfaslLqesucdGjBlMA3yVohmbO_XN0IQ6ozmopdy5dBLvhJ7bxqN00lwPgm8ewkYVIG54d1UQjqcmVSvLTwImW0_Q9IcBzfa2m6kLa6zPZpaWEP6Sdf_8y7KzxaNl_gPz8EcXHQ">YEC
+                    Center</a></li>
+                <li><a href="/asia">Asia</a></li>
+                <li><a href="/europe">Europe</a></li>
+                <li><a href="/mena">MENA</a></li>
+              </ul>
+            </li>
+            <li><a href="activities.html">Our Activities</a></li>
+            <li><a href="profile.html">Profile</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+        </nav>
+      </nav>
+      <h1>Our Activities</h1>
+    </section>
+
+
+    
+    <!--------Detail Players--------->
+    <section class="detailplayers">
+      <h1>Some of Our recent Activities</h1>
+      <p> Below are some of the TEAM PLAYERS. The first is the Div2CongoNets
+        team captain Kenneth Karanja. <br>
+        The middle lot is the MBA YoungNets team captain and the far right is
+        one of the Div2 CongoNets player</p>
+      <div class="row">
+        <div class="detailplayers-col"> <img src="images2/pic4.jpg">
+          <h3>Uchaguzi Bila Balaa Program</h3>
+          <p>We hosted local administrators, youth leaders and social media
+            personnel from Likoni Subcounty for the Inception meeting of the
+            UCHAGUZI BILA BALAA Program sponsored by The European Union
+            @EUinKenya and Search For Common Ground @SFCG_Kenya at the LICODEP
+            Hall. #UCHAGUZIBILABALAA.</p>
+        </div>
+        <div class="detailplayers-col"> <img src="images2/pic9.jfif">
+          <h3>International Women's Day</h3>
+          <p>we @Hisiacbo partnered with @swahilipothub and Dreams to
+            commemorate #IWD2023 with the students of Vyemani Primary School. We
+            had various talks with the young women ranging from self awareness,
+            Sexual Reproductive Health and Rights (SRHR) and leadership.</p>
+        </div>
+        <div class="detailplayers-col"> <img src="images2/pic10.jfif">
+          <h3>Current arising issues facing Youth within Likoni</h3>
+          <p>We engaged the Bata Point Youth Maskani, Bofu ward, Likoni in an
+            open forum/ talk tackling post election related issues that the
+            youths played a factor in their occurrence. We addressed several
+            issues including the mediation, peaceful coexistence within them and
+            the community</p>
+        </div>
+      </div>
+    </section>
+    <!------Footer------>
+    <section class="footer">
+      <h4> About Us </h4>
+      <p>Our mission is to impact youth with knowledge on the importance of
+        education and campaign against the dangers of </p>
+      <p>peer pressure and sexual immorality.</p>
+      <div class="icons"> <a href="https://www.facebook.com/profile.php?id=100080690541787"
+
+          class="fa fa-facebook"></a> <a href="https://instagram.com/hisia.youthcbo?igshid=ZDdkNTZiNTM="
+
+          class="fa fa-instagram"></a> <a href="https://twitter.com/Hisiacbo?t=f-9iyi6zO19y0uVL_dw6Ow&amp;s=09"
+
+          class="fa fa-twitter"></a> </div>
+      <p>Made by Salma Ali</p>
+    </section>
+    <!-----JavaScript for Toggle Meenu----->
+    <script>
+	var navLinks = document.getElementById("navLinks");
+	function showMenu(){
+		// body...
+		navLinks.style.right = "0";
+	}
+	function hideMenu(){
+		navLinks.style.right = "-200px";
+	}
+</script> </body>
+</html>
